@@ -135,14 +135,14 @@ class App extends React.Component {
     return (
 
       <div className="flex">
-        <Sidebar 
+        <Sidebar
           sizes={products}
           activeSize={this.state.activeSize}
           handleSize={this.handleSize}
         />
 
         <main className="flex flex-col mt-14 w-2/3">
-          <Head 
+          <Head
             count={displayProduct.length}
             onChange={this.handleSort}
           />
