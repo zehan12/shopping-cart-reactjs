@@ -1,6 +1,11 @@
 # React Shopping Cart
 This is a simple shopping cart application built with React. It allows users to browse through a list of products, add them to their cart, and view their cart with the total price and number of installments.
 
+[![shop.png](https://i.postimg.cc/9MvPjdGM/shop.png)](https://postimg.cc/tZNn3VvQ)
+
+## Live Link 
+https://shopping-cart-reactjs-kappa.vercel.app/
+
 ## Features
 Browse through a list of products and filter them by size
 Sort the products by price in ascending or descending order
